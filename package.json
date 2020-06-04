@@ -1,0 +1,19 @@
+{
+  "name": "delight-mind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manimit10/TFM.git"
+  },
+  "author": "Mani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Manimit10/TFM/issues"
+  },
+  "homepage": "https://github.com/Manimit10/TFM#readme"
+}
